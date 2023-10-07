@@ -112,6 +112,9 @@ With this setup, you're ready to start integrating the Bootstrap components and 
 
 **Exercise**: Create a webpage layout using the Bootstrap grid. Have a header, a 3-column content area for large screens (that stacks on small screens), and a footer.
 
+**Expected Output**
+
+![GRID](https://github.com/techcodedu/bootstrap_way/blob/main/1.png)
 ---
 
 ## **2. Button Styling**
@@ -153,6 +156,9 @@ With this setup, you're ready to start integrating the Bootstrap components and 
 
 **Exercise**: Design a user registration form. Use different button styles for "Submit", "Clear Form", and "Help".
 
+**Expected Output**
+
+![Button](https://github.com/techcodedu/bootstrap_way/blob/main/2.png)
 ---
 
 ## **3. Navigation Bar (Navbar)**
@@ -220,7 +226,9 @@ With this setup, you're ready to start integrating the Bootstrap components and 
 
 **Exercise**: Design a navbar with the following sections: Home, Services (with a dropdown for Service 1, Service 2, and Service 3), Blog, and Contact. Style the navbar with a dark theme.
 
+**Expected Output**
 
+![navbar](https://github.com/techcodedu/bootstrap_way/blob/main/3.png)
 ---
 
 ## **4. Typography**
@@ -263,6 +271,9 @@ With this setup, you're ready to start integrating the Bootstrap components and 
 
 **Exercise**: Craft a landing page for a product. Use large typography to highlight the product name and a leading paragraph to describe its main feature.
 
+**Expected Output**
+
+![Text](https://github.com/techcodedu/bootstrap_way/blob/main/4.png)
 ---
 
 ## **5. Cards**
@@ -308,6 +319,9 @@ With this setup, you're ready to start integrating the Bootstrap components and 
 
 **Exercise**: Design a user profile card with a profile picture at the top, followed by a name, short bio, and buttons for "Follow" and "Message".
 
+**Expected Output**
+
+![card](https://github.com/techcodedu/bootstrap_way/blob/main/5.png)
 ---
 
 ## **6. Carousels**
@@ -347,6 +361,9 @@ For brevity, let's consider just the Bootstrap approach for the carousel since i
 
 **Exercise**: Create a carousel showcasing the top three features of a new product. Each slide should have an image and a brief description.
 
+**Expected Output**
+
+![carousel](https://github.com/techcodedu/bootstrap_way/blob/main/6.png)
 ---
 
 ## **7. Badges**
@@ -382,6 +399,9 @@ For brevity, let's consider just the Bootstrap approach for the carousel since i
 
 **Exercise**: Design a blog homepage. Next to each blog post title, display a badge indicating if the post is "New", "Trending", or "Featured".
 
+**Expected Output**
+
+![badge](https://github.com/techcodedu/bootstrap_way/blob/main/7.png)
 ---
 
 ## **8. Lists**
@@ -425,6 +445,9 @@ For brevity, let's consider just the Bootstrap approach for the carousel since i
 
 **Exercise**: Design a sidebar with a list of categories for an online shop. Highlight one of the categories as "active" or "selected".
 
+**Expected Output**
+
+![list](https://github.com/techcodedu/bootstrap_way/blob/main/8.png)
 ---
 
 ## **9. Tables**
@@ -484,6 +507,9 @@ For brevity, let's consider just the Bootstrap approach for the carousel since i
 
 **Exercise**: Create a table showcasing product details, including name, category, price, and stock status.
 
+**Expected Output**
+
+![table](https://github.com/techcodedu/bootstrap_way/blob/main/9.png)
 ---
 
 ## **10. Forms**
@@ -531,6 +557,10 @@ For brevity, let's consider just the Bootstrap approach for the carousel since i
 - `.form-range`: For range inputs.
 
 **Exercise**: Design a user registration form that includes fields for first name, last name, email, password, and a dropdown to select a user type (Admin, User, Guest). Include a "Register" button.
+
+**Expected Output**
+
+![form](https://github.com/techcodedu/bootstrap_way/blob/main/10.png)
 
 ---
 
